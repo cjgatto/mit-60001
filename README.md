@@ -7,7 +7,7 @@
 
 # Getting started
 
-This course uses an outdated version of Python and Spyder (a Python editor). This environment have everything you need, however.
+This course uses an outdated version of Python and Spyder (a Python editor). This environment should have everything you need, however.
 
 First, you'll need to install
 - [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
