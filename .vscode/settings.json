@@ -1,0 +1,6 @@
+{
+    "python.languageServer": "Pylance",
+    "python.defaultInterpreterPath": "/bin/python3",
+    "debug.saveBeforeStart": "nonUntitledEditorsInActiveGroup",
+    "notebook.experimental.useMarkdownRenderer": true
+}
